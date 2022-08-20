@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 void main()
 {
     int state=0,i=0;
