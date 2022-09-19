@@ -1,0 +1,37 @@
+#
+ include is identifier
+ < is Relational operator Lessthan
+ stdio is identifier.
+ h is identifier
+ > is Relational operator Greaterthan 
+ int is keyword 
+ main is identifier(){  
+ int is keyword 
+ a is identifier,
+ b is identifier
+ = is Assignment operator
+ 591 is digit,
+ c is identifier
+ = is Assignment operator
+ 2000 is digit;
+ printf is identifier("
+ My is identifier 
+ name is identifier 
+ is is identifier 
+ RAJA is identifier");
+ if is identifier((
+ a is identifier+
+ b is identifier)
+ > is Relational operator Greaterthan
+ c is identifier) 
+ printf is identifier("
+ sum is identifier 
+ is is identifier 
+ greater is identifier 
+ than is identifier 
+ c is identifier");
+ else is identifier  
+ printf is identifier("
+ less is identifier 
+ than is identifier 
+ c is identifier");}
