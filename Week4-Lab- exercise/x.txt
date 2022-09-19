@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+ int a,b=615,c=1000;
+printf("My name is GVS.Sridhar");
+if((a+b)>c)
+ printf("sum is greater than c");
+else
+  printf("less than c");
+}
